@@ -1,2 +1,6 @@
 # rep-1
- the first repository
+ Hello, humans!!!
+
+ I'm Ben and I LOVE to play video games. How about you?
+
+ Write the answers at the comments
